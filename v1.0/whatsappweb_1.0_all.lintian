@@ -1,0 +1,258 @@
+E: whatsappweb: arch-independent-package-contains-binary-or-object usr/whatsapp-web/libffmpeg.so
+E: whatsappweb: arch-independent-package-contains-binary-or-object usr/whatsapp-web/libnode.so
+E: whatsappweb: embedded-library usr/whatsapp-web/libnode.so: openssl
+E: whatsappweb: embedded-library usr/whatsapp-web/libnode.so: zlib
+E: whatsappweb: arch-independent-package-contains-binary-or-object usr/whatsapp-web/whats-app-web
+E: whatsappweb: embedded-library usr/whatsapp-web/whats-app-web: freetype
+E: whatsappweb: embedded-library usr/whatsapp-web/whats-app-web: libjpeg
+E: whatsappweb: embedded-library usr/whatsapp-web/whats-app-web: libpng
+E: whatsappweb: embedded-library usr/whatsapp-web/whats-app-web: srtp
+W: whatsappweb: missing-depends-line
+E: whatsappweb: copyright-file-contains-full-gpl-license
+E: whatsappweb: copyright-should-refer-to-common-license-file-for-lgpl
+W: whatsappweb: extended-description-line-too-long
+W: whatsappweb: non-standard-dir-perm usr/ 0775 != 0755
+W: whatsappweb: non-standard-dir-perm usr/share/ 0775 != 0755
+W: whatsappweb: non-standard-dir-perm usr/share/applications/ 0775 != 0755
+W: whatsappweb: non-standard-file-perm usr/share/applications/Whatsapp_Web.desktop 0664 != 0644
+W: whatsappweb: non-standard-dir-perm usr/share/doc/ 0775 != 0755
+W: whatsappweb: non-standard-dir-perm usr/share/doc/whatsappweb/ 0775 != 0755
+W: whatsappweb: non-standard-file-perm usr/share/doc/whatsappweb/changelog.gz 0664 != 0644
+W: whatsappweb: non-standard-file-perm usr/share/doc/whatsappweb/copyright 0664 != 0644
+W: whatsappweb: non-standard-dir-perm usr/share/pixmaps/ 0775 != 0755
+W: whatsappweb: non-standard-dir-in-usr usr/whatsapp-web/
+W: whatsappweb: non-standard-dir-perm usr/whatsapp-web/ 0775 != 0755
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/LICENSE
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/LICENSES.chromium.html
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/blink_image_resources_200_percent.pak
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/content_resources_200_percent.pak
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/content_shell.pak
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/icudtl.dat
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/libffmpeg.so
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/libnode.so
+W: whatsappweb: non-standard-dir-perm usr/whatsapp-web/locales/ 0775 != 0755
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/locales/am.pak
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/locales/ar.pak
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/locales/bg.pak
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/locales/bn.pak
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/locales/ca.pak
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/locales/cs.pak
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/locales/da.pak
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/locales/de.pak
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/locales/el.pak
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/locales/en-GB.pak
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/locales/en-US.pak
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/locales/es-419.pak
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/locales/es.pak
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/locales/et.pak
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/locales/fa.pak
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/locales/fake-bidi.pak
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/locales/fi.pak
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/locales/fil.pak
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/locales/fr.pak
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/locales/gu.pak
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/locales/he.pak
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/locales/hi.pak
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/locales/hr.pak
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/locales/hu.pak
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/locales/id.pak
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/locales/it.pak
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/locales/ja.pak
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/locales/kn.pak
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/locales/ko.pak
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/locales/lt.pak
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/locales/lv.pak
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/locales/ml.pak
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/locales/mr.pak
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/locales/ms.pak
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/locales/nb.pak
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/locales/nl.pak
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/locales/pl.pak
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/locales/pt-BR.pak
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/locales/pt-PT.pak
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/locales/ro.pak
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/locales/ru.pak
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/locales/sk.pak
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/locales/sl.pak
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/locales/sr.pak
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/locales/sv.pak
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/locales/sw.pak
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/locales/ta.pak
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/locales/te.pak
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/locales/th.pak
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/locales/tr.pak
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/locales/uk.pak
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/locales/vi.pak
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/locales/zh-CN.pak
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/locales/zh-TW.pak
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/natives_blob.bin
+W: whatsappweb: non-standard-dir-perm usr/whatsapp-web/resources/ 0775 != 0755
+W: whatsappweb: non-standard-dir-perm usr/whatsapp-web/resources/app/ 0775 != 0755
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/icon.png
+W: whatsappweb: non-standard-dir-perm usr/whatsapp-web/resources/app/inject/ 0775 != 0755
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/inject/_placeholder
+W: whatsappweb: non-standard-dir-perm usr/whatsapp-web/resources/app/lib/ 0775 != 0755
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/lib/main.js
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/lib/main.js.map
+W: whatsappweb: non-standard-dir-perm usr/whatsapp-web/resources/app/lib/static/ 0775 != 0755
+W: whatsappweb: non-standard-dir-perm usr/whatsapp-web/resources/app/lib/static/login/ 0775 != 0755
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/lib/static/login/login.css
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/lib/static/login/login.html
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/lib/static/login/login.js
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/lib/static/login/login.js.map
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/lib/static/preload.js
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/lib/static/preload.js.map
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/nativefier.json
+W: whatsappweb: non-standard-dir-perm usr/whatsapp-web/resources/app/node_modules/ 0775 != 0755
+W: whatsappweb: non-standard-dir-perm usr/whatsapp-web/resources/app/node_modules/buffer-from/ 0775 != 0755
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/buffer-from/LICENSE
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/buffer-from/index.js
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/buffer-from/readme.md
+W: whatsappweb: non-standard-dir-perm usr/whatsapp-web/resources/app/node_modules/electron-context-menu/ 0775 != 0755
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/electron-context-menu/index.js
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/electron-context-menu/license
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/electron-context-menu/readme.md
+W: whatsappweb: non-standard-dir-perm usr/whatsapp-web/resources/app/node_modules/electron-dl/ 0775 != 0755
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/electron-dl/index.js
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/electron-dl/license
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/electron-dl/readme.md
+W: whatsappweb: non-standard-dir-perm usr/whatsapp-web/resources/app/node_modules/electron-is-dev/ 0775 != 0755
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/electron-is-dev/index.js
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/electron-is-dev/license
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/electron-is-dev/readme.md
+W: whatsappweb: non-standard-dir-perm usr/whatsapp-web/resources/app/node_modules/electron-window-state/ 0775 != 0755
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/electron-window-state/index.js
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/electron-window-state/license
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/electron-window-state/readme.md
+W: whatsappweb: non-standard-dir-perm usr/whatsapp-web/resources/app/node_modules/ext-list/ 0775 != 0755
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/ext-list/index.js
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/ext-list/license
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/ext-list/readme.md
+W: whatsappweb: non-standard-dir-perm usr/whatsapp-web/resources/app/node_modules/ext-name/ 0775 != 0755
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/ext-name/index.js
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/ext-name/license
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/ext-name/readme.md
+W: whatsappweb: non-standard-dir-perm usr/whatsapp-web/resources/app/node_modules/graceful-fs/ 0775 != 0755
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/graceful-fs/LICENSE
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/graceful-fs/README.md
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/graceful-fs/clone.js
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/graceful-fs/graceful-fs.js
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/graceful-fs/legacy-streams.js
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/graceful-fs/polyfills.js
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/icon.png
+W: whatsappweb: non-standard-dir-perm usr/whatsapp-web/resources/app/node_modules/is-plain-obj/ 0775 != 0755
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/is-plain-obj/index.js
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/is-plain-obj/license
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/is-plain-obj/readme.md
+W: whatsappweb: non-standard-dir-perm usr/whatsapp-web/resources/app/node_modules/loglevel/ 0775 != 0755
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/loglevel/CONTRIBUTING.md
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/loglevel/Gruntfile.js
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/loglevel/LICENSE-MIT
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/loglevel/README.md
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/loglevel/_config.yml
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/loglevel/bower.json
+W: whatsappweb: non-standard-dir-perm usr/whatsapp-web/resources/app/node_modules/loglevel/dist/ 0775 != 0755
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/loglevel/dist/loglevel.js
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/loglevel/dist/loglevel.min.js
+W: whatsappweb: non-standard-dir-perm usr/whatsapp-web/resources/app/node_modules/loglevel/lib/ 0775 != 0755
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/loglevel/lib/loglevel.js
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/loglevel/package.json
+W: whatsappweb: non-standard-dir-perm usr/whatsapp-web/resources/app/node_modules/loglevel/test/ 0775 != 0755
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/loglevel/test/console-fallback-test.js
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/loglevel/test/cookie-test.js
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/loglevel/test/default-level-test.js
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/loglevel/test/get-current-level-test.js
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/loglevel/test/global-integration-with-new-context.js
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/loglevel/test/global-integration.js
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/loglevel/test/integration-smoke-test.js
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/loglevel/test/level-setting-test.js
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/loglevel/test/local-storage-test.js
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/loglevel/test/manual-test.html
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/loglevel/test/method-factory-test.js
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/loglevel/test/multiple-logger-test.js
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/loglevel/test/node-integration.js
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/loglevel/test/test-context-using-apply.js
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/loglevel/test/test-helpers.js
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/loglevel/test/test-qunit.html
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/loglevel/test/test-qunit.js
+W: whatsappweb: non-standard-dir-perm usr/whatsapp-web/resources/app/node_modules/loglevel/test/vendor/ 0775 != 0755
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/loglevel/test/vendor/json2.js
+W: whatsappweb: non-standard-dir-perm usr/whatsapp-web/resources/app/node_modules/mime-db/ 0775 != 0755
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/mime-db/HISTORY.md
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/mime-db/LICENSE
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/mime-db/README.md
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/mime-db/db.json
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/mime-db/index.js
+W: whatsappweb: non-standard-dir-perm usr/whatsapp-web/resources/app/node_modules/modify-filename/ 0775 != 0755
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/modify-filename/index.js
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/modify-filename/license
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/modify-filename/readme.md
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/nativefier.json
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/package.json
+W: whatsappweb: non-standard-dir-perm usr/whatsapp-web/resources/app/node_modules/path-exists/ 0775 != 0755
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/path-exists/index.js
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/path-exists/license
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/path-exists/readme.md
+W: whatsappweb: non-standard-dir-perm usr/whatsapp-web/resources/app/node_modules/pupa/ 0775 != 0755
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/pupa/index.js
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/pupa/license
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/pupa/readme.md
+W: whatsappweb: non-standard-dir-perm usr/whatsapp-web/resources/app/node_modules/sort-keys-length/ 0775 != 0755
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/sort-keys-length/LICENSE.md
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/sort-keys-length/README.md
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/sort-keys-length/index.js
+W: whatsappweb: non-standard-dir-perm usr/whatsapp-web/resources/app/node_modules/sort-keys/ 0775 != 0755
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/sort-keys/index.js
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/sort-keys/license
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/sort-keys/readme.md
+W: whatsappweb: non-standard-dir-perm usr/whatsapp-web/resources/app/node_modules/source-map-support/ 0775 != 0755
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/source-map-support/LICENSE.md
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/source-map-support/README.md
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/source-map-support/browser-source-map-support.js
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/source-map-support/package.json
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/source-map-support/register.js
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/source-map-support/source-map-support.js
+W: whatsappweb: non-standard-dir-perm usr/whatsapp-web/resources/app/node_modules/source-map/ 0775 != 0755
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/source-map/CHANGELOG.md
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/source-map/LICENSE
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/source-map/README.md
+W: whatsappweb: non-standard-dir-perm usr/whatsapp-web/resources/app/node_modules/source-map/dist/ 0775 != 0755
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/source-map/dist/source-map.debug.js
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/source-map/dist/source-map.js
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/source-map/dist/source-map.min.js
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/source-map/dist/source-map.min.js.map
+W: whatsappweb: non-standard-dir-perm usr/whatsapp-web/resources/app/node_modules/source-map/lib/ 0775 != 0755
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/source-map/lib/array-set.js
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/source-map/lib/base64-vlq.js
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/source-map/lib/base64.js
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/source-map/lib/binary-search.js
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/source-map/lib/mapping-list.js
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/source-map/lib/quick-sort.js
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/source-map/lib/source-map-consumer.js
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/source-map/lib/source-map-generator.js
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/source-map/lib/source-node.js
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/source-map/lib/util.js
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/source-map/source-map.d.ts
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/source-map/source-map.js
+W: whatsappweb: non-standard-dir-perm usr/whatsapp-web/resources/app/node_modules/unused-filename/ 0775 != 0755
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/unused-filename/index.js
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/unused-filename/license
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/unused-filename/readme.md
+W: whatsappweb: non-standard-dir-perm usr/whatsapp-web/resources/app/node_modules/wurl/ 0775 != 0755
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/wurl/README.md
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/wurl/package.json
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/wurl/test.js
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/node_modules/wurl/wurl.js
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/app/package.json
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/resources/electron.asar
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/ui_resources_200_percent.pak
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/v8_context_snapshot.bin
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/version
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/views_resources_200_percent.pak
+W: whatsappweb: file-in-unusual-dir usr/whatsapp-web/whats-app-web
+E: whatsappweb: md5sums-lists-nonexistent-file usr/whatsapp-web/locales/es.pa
+W: whatsappweb: file-missing-in-md5sums usr/whatsapp-web/locales/es.pak
+W: whatsappweb: desktop-entry-invalid-category Internet usr/share/applications/Whatsapp_Web.desktop
+W: whatsappweb: desktop-entry-invalid-category Internet usr/share/applications/whatsapp.desktop
+E: whatsappweb: shlib-with-executable-bit usr/whatsapp-web/libffmpeg.so 0755
+E: whatsappweb: shlib-with-executable-bit usr/whatsapp-web/libnode.so 0755
